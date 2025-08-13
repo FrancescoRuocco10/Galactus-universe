@@ -1,6 +1,6 @@
 # <img src="./public/favicon.png" alt="logo del sito" width="50" height="50" /> Galactus [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-![Anteprima della homepage](Homepage.JPG)
+![Anteprima della homepage](Homegalactus.JPG)
 
 ## Descrizione
 Questo sito rappresenta il mio curriculum vitae digitale. Contiene alcune informazioni personali, skill, certificazioni, esperienze lavorative, form e contatti. 
